@@ -1,0 +1,10 @@
+1. `SELECT * FROM [table] WHERE Spend_Categories = 'Restaurants';`
+2. `SELECT Trans_date, SUM(Amount) AS Total_Spend FROM [table] GROUP BY Trans_date;`
+3. `SELECT Post_date, COUNT(*) AS Number_of_Transactions FROM [table] GROUP BY Post_date;`
+4. `SELECT Description, AVG(Amount) AS Average_Amount FROM [table] WHERE Spend_Categories = 'Retail and Grocery' GROUP BY Description;`
+5. `SELECT Trans_date, Amount FROM [table] ORDER BY Trans_date DESC LIMIT 10;`
+6. `SELECT DISTINCT Post_date FROM [table];`
+7. `SELECT Spend_Categories, SUM(Amount) AS Total_Spend FROM [table] GROUP BY Spend_Categories;`
+8. `SELECT * FROM [table] WHERE Amount > 50;`
+9. `SELECT Trans_date, MAX(Amount) AS Highest_Amount FROM [table] GROUP BY Trans_date;`
+10. `SELECT Description, COUNT(*) AS Number_of_Transactions FROM [table] GROUP BY Description ORDER BY Number_of_Transactions DESC LIMIT 5;`

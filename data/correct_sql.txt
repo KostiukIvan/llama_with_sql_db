@@ -1,0 +1,12 @@
+What is the total spending on LCBO in April? 
+
+SELECT SUM(Amount) AS Total_Spending_LCBO_April
+FROM transactions
+WHERE Description LIKE '%LCBO%' AND Trans_date BETWEEN '2024-04-01' AND '2024-04-30';
+
+
+
+SELECT COUNT(*) AS Transactions_UberEats_Q1
+FROM transactions
+WHERE Description LIKE '%Uber Eats%' AND Trans_date BETWEEN '2024-01-01' AND '2024-03-31';
+

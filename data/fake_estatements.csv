@@ -1,0 +1,160 @@
+Trans_date,Description,Type,Amount
+Jan 01, TIM HORTONS #1234 TORONTO ON, Restaurants, 8.45
+Jan 02, WALMART SUPERCENTER MISSISSAUGA ON, Retail and Grocery, 23.78
+Jan 03, UBER* TRIP TORONTO ON, Transportation, 15.65
+Jan 04, AMAZON.COM SEATTLE WA, Retail and Grocery, 45.89
+Jan 05, MCDONALD'S #4954 Q04 MISSISSAUGA ON, Restaurants, 10.18
+Jan 06, SHELL OIL WOODBRIDGE ON, Transportation, 30.45
+Jan 07, STARBUCKS COFFEE #1234 TORONTO ON, Restaurants, 7.15
+Jan 08, COSTCO WHOLESALE SCARBOROUGH ON, Retail and Grocery, 95.12
+Jan 09, APPLE.COM/BILL 866-712-7753 CA, Retail and Grocery, 3.99
+Jan 10, LCBO #1234 MISSISSAUGA ON, Retail and Grocery, 65.50
+Jan 11, BEST BUY #1234 TORONTO ON, Retail and Grocery, 120.34
+Jan 12, SHERATON HOTELS TORONTO ON, Hotel Entertainment and Recreation, 235.00
+Jan 13, TICKETMASTER TORONTO ON, Hotel Entertainment and Recreation, 105.60
+Jan 14, THE HOME DEPOT #1234 MISSISSAUGA ON, Retail and Grocery, 48.20
+Jan 15, STARBUCKS COFFEE #6158 MISSISSAUGA ON, Restaurants, 6.72
+Jan 16, METRO #1234 TORONTO ON, Retail and Grocery, 23.45
+Jan 17, GAS STATION WOODBRIDGE ON, Transportation, 40.75
+Jan 18, UBER* EATS TORONTO ON, Restaurants, 25.50
+Jan 19, ROGERS ******4388 888-764-3771 ON, Personal and Household Expenses, 74.13
+Jan 20, FREEDOM MOBILE INC OAKVILLE ON, Personal and Household Expenses, 112.98
+Jan 21, PAYPAL *NETFLIX 800-000-0000 CA, Retail and Grocery, 15.99
+Jan 22, BEST BUY #1234 MISSISSAUGA ON, Retail and Grocery, 95.45
+Jan 23, CANADIAN TIRE #1234 TORONTO ON, Retail and Grocery, 60.34
+Jan 24, PETRO CANADA00959 WOODBRIDGE ON, Transportation, 35.00
+Jan 25, TESCO #1234 TORONTO ON, Retail and Grocery, 20.78
+Jan 26, STARBUCKS COFFEE #6158 MISSISSAUGA ON, Restaurants, 6.72
+Jan 27, FOOD BASICS 630 MISSISSAUGA ON, Retail and Grocery, 7.33
+Jan 28, DIGITAL ATTRACTIONS IN TORONTO ON, Retail and Grocery, 50.00
+Jan 29, SPOTHERO 844-356-8054 TORONTO ON, Transportation, 10.29
+Jan 30, GOOGLE *Spotify g.co/helppay#NS, Retail and Grocery, 12.42
+Feb 01, LA FITNESS BRAMPTON ON, Hotel Entertainment and Recreation, 51.97
+Feb 02, AMAZON.COM SEATTLE WA, Retail and Grocery, 25.00
+Feb 03, BEST BUY #1234 TORONTO ON, Retail and Grocery, 85.67
+Feb 04, PETRO CANADA00959 WOODBRIDGE ON, Transportation, 22.50
+Feb 05, TIM HORTONS #1234 TORONTO ON, Restaurants, 9.99
+Feb 06, WALMART SUPERCENTER MISSISSAUGA ON, Retail and Grocery, 40.78
+Feb 07, LCBO #1234 MISSISSAUGA ON, Retail and Grocery, 32.50
+Feb 08, UBER* TRIP TORONTO ON, Transportation, 13.45
+Feb 09, METRO #1234 TORONTO ON, Retail and Grocery, 22.15
+Feb 10, TICKETMASTER TORONTO ON, Hotel Entertainment and Recreation, 112.00
+Feb 11, APPLE.COM/BILL 866-712-7753 CA, Retail and Grocery, 9.99
+Feb 12, COSTCO WHOLESALE SCARBOROUGH ON, Retail and Grocery, 75.12
+Feb 13, UBER* EATS TORONTO ON, Restaurants, 28.00
+Feb 14, FREEDOM MOBILE INC OAKVILLE ON, Personal and Household Expenses, 120.00
+Feb 15, STARBUCKS COFFEE #6158 MISSISSAUGA ON, Restaurants, 6.72
+Feb 16, ROGERS ******4388 888-764-3771 ON, Personal and Household Expenses, 82.50
+Feb 17, GAS STATION WOODBRIDGE ON, Transportation, 45.10
+Feb 18, WALMART SUPERCENTER MISSISSAUGA ON, Retail and Grocery, 50.00
+Feb 19, THE HOME DEPOT #1234 MISSISSAUGA ON, Retail and Grocery, 58.40
+Feb 20, LCBO #1234 MISSISSAUGA ON, Retail and Grocery, 100.75
+Feb 21, MCDONALD'S #4954 Q04 MISSISSAUGA ON, Restaurants, 15.18
+Feb 22, STARBUCKS COFFEE #1234 TORONTO ON, Restaurants, 8.45
+Feb 23, PETRO CANADA00959 WOODBRIDGE ON, Transportation, 18.65
+Feb 24, FOOD BASICS 630 MISSISSAUGA ON, Retail and Grocery, 10.33
+Feb 25, DIGITAL ATTRACTIONS IN TORONTO ON, Retail and Grocery, 35.00
+Feb 26, AMAZON.COM SEATTLE WA, Retail and Grocery, 20.00
+Feb 27, PAYPAL *NETFLIX 800-000-0000 CA, Retail and Grocery, 17.99
+Feb 28, BEST BUY #1234 TORONTO ON, Retail and Grocery, 45.89
+Mar 01, FREEDOM MOBILE INC OAKVILLE ON, Personal and Household Expenses, 112.98
+Mar 02, ROGERS ******4388 888-764-3771 ON, Personal and Household Expenses, 78.13
+Mar 03, TIM HORTONS #1234 TORONTO ON, Restaurants, 5.45
+Mar 04, UBER* TRIP TORONTO ON, Transportation, 20.00
+Mar 05, WALMART SUPERCENTER MISSISSAUGA ON, Retail and Grocery, 60.78
+Mar 06, APPLE.COM/BILL 866-712-7753 CA, Retail and Grocery, 7.99
+Mar 07, METRO #1234 TORONTO ON, Retail and Grocery, 15.45
+Mar 08, STARBUCKS COFFEE #1234 TORONTO ON, Restaurants, 6.45
+Mar 09, LCBO #1234 MISSISSAUGA ON, Retail and Grocery, 50.00
+Mar 10, COSTCO WHOLESALE SCARBOROUGH ON, Retail and Grocery, 85.50
+Mar 11, TICKETMASTER TORONTO ON, Hotel Entertainment and Recreation, 120.00
+Mar 12, GAS STATION WOODBRIDGE ON, Transportation, 40.75
+Mar 13, UBER* EATS TORONTO ON, Restaurants, 22.45
+Mar 14, PETRO CANADA00959 WOODBRIDGE ON, Transportation, 25.00
+Mar 15, FOOD BASICS 630 MISSISSAUGA ON, Retail and Grocery, 7.33
+Mar 16, DIGITAL ATTRACTIONS IN TORONTO ON, Retail and Grocery, 30.00
+Mar 17, STARBUCKS COFFEE #6158 MISSISSAUGA ON, Restaurants, 6.72
+Mar 18, ROGERS ******4388 888-764-3771 ON, Personal and Household Expenses, 85.00
+Mar 19, FREEDOM MOBILE INC OAKVILLE ON, Personal and Household Expenses, 115.00
+Mar 20, AMAZON.COM SEATTLE WA, Retail and Grocery, 55.00
+Mar 21, MCDONALD'S #4954 Q04 MISSISSAUGA ON, Restaurants, 20.00
+Mar 22, WALMART SUPERCENTER MISSISSAUGA ON, Retail and Grocery, 40.78
+Mar 23, TIM HORTONS #1234 TORONTO ON, Restaurants, 7.50
+Mar 24, APPLE.COM/BILL 866-712-7753 CA, Retail and Grocery, 6.99
+Mar 25, METRO #1234 TORONTO ON, Retail and Grocery, 18.45
+Mar 26, COSTCO WHOLESALE SCARBOROUGH ON, Retail and Grocery, 95.12
+Mar 27, UBER* TRIP TORONTO ON, Transportation, 30.00
+Mar 28, TICKETMASTER TORONTO ON, Hotel Entertainment and Recreation, 110.00
+Mar 29, LCBO #1234 MISSISSAUGA ON, Retail and Grocery, 35.50
+Mar 30, PETRO CANADA00959 WOODBRIDGE ON, Transportation, 20.06
+Apr 01, FREEDOM MOBILE INC OAKVILLE ON, Personal and Household Expenses, 110.00
+Apr 02, STARBUCKS COFFEE #6158 MISSISSAUGA ON, Restaurants, 6.72
+Apr 03, WALMART SUPERCENTER MISSISSAUGA ON, Retail and Grocery, 45.00
+Apr 04, DIGITAL ATTRACTIONS IN TORONTO ON, Retail and Grocery, 40.00
+Apr 05, MCDONALD'S #4954 Q04 MISSISSAUGA ON, Restaurants, 11.18
+Apr 06, GOOGLE *Spotify g.co/helppay#NS, Retail and Grocery, 12.42
+Apr 07, TESCO #1234 TORONTO ON, Retail and Grocery, 25.00
+Apr 08, LCBO #1234 MISSISSAUGA ON, Retail and Grocery, 70.00
+Apr 09, SHELL OIL WOODBRIDGE ON, Transportation, 25.00
+Apr 10, UBER* EATS TORONTO ON, Restaurants, 30.00
+Apr 11, STARBUCKS COFFEE #6158 MISSISSAUGA ON, Restaurants, 6.72
+Apr 12, COSTCO WHOLESALE SCARBOROUGH ON, Retail and Grocery, 85.00
+Apr 13, METRO #1234 TORONTO ON, Retail and Grocery, 25.45
+Apr 14, TICKETMASTER TORONTO ON, Hotel Entertainment and Recreation, 130.00
+Apr 15, GAS STATION WOODBRIDGE ON, Transportation, 20.75
+Apr 16, FREEDOM MOBILE INC OAKVILLE ON, Personal and Household Expenses, 115.00
+Apr 17, AMAZON.COM SEATTLE WA, Retail and Grocery, 60.00
+Apr 18, ROGERS ******4388 888-764-3771 ON, Personal and Household Expenses, 95.00
+Apr 19, STARBUCKS COFFEE #1234 TORONTO ON, Restaurants, 8.45
+Apr 20, WALMART SUPERCENTER MISSISSAUGA ON, Retail and Grocery, 55.78
+Apr 21, TIM HORTONS #1234 TORONTO ON, Restaurants, 6.00
+Apr 22, APPLE.COM/BILL 866-712-7753 CA, Retail and Grocery, 9.99
+Apr 23, COSTCO WHOLESALE SCARBOROUGH ON, Retail and Grocery, 105.12
+Apr 24, TESCO #1234 TORONTO ON, Retail and Grocery, 22.00
+Apr 25, UBER* TRIP TORONTO ON, Transportation, 25.00
+Apr 26, SHELL OIL WOODBRIDGE ON, Transportation, 35.45
+Apr 27, WALMART SUPERCENTER MISSISSAUGA ON, Retail and Grocery, 30.78
+Apr 28, APPLE.COM/BILL 866-712-7753 CA, Retail and Grocery, 4.99
+Apr 29, FREEDOM MOBILE INC OAKVILLE ON, Personal and Household Expenses, 112.98
+Apr 30, ROGERS ******4388 888-764-3771 ON, Personal and Household Expenses, 74.13
+May 01, STARBUCKS COFFEE #1234 TORONTO ON, Restaurants, 7.15
+May 02, MCDONALD'S #4954 Q04 MISSISSAUGA ON, Restaurants, 10.18
+May 03, PETRO CANADA00959 WOODBRIDGE ON, Transportation, 30.45
+May 04, METRO #1234 TORONTO ON, Retail and Grocery, 23.45
+May 05, LCBO #1234 MISSISSAUGA ON, Retail and Grocery, 50.00
+May 06, DIGITAL ATTRACTIONS IN TORONTO ON, Retail and Grocery, 40.00
+May 07, WALMART SUPERCENTER MISSISSAUGA ON, Retail and Grocery, 25.78
+May 08, AMAZON.COM SEATTLE WA, Retail and Grocery, 45.89
+May 09, BEST BUY #1234 TORONTO ON, Retail and Grocery, 120.34
+May 10, SHERATON HOTELS TORONTO ON, Hotel Entertainment and Recreation, 235.00
+May 11, TICKETMASTER TORONTO ON, Hotel Entertainment and Recreation, 105.60
+May 12, THE HOME DEPOT #1234 MISSISSAUGA ON, Retail and Grocery, 48.20
+May 13, STARBUCKS COFFEE #6158 MISSISSAUGA ON, Restaurants, 6.72
+May 14, METRO #1234 TORONTO ON, Retail and Grocery, 23.45
+May 15, GAS STATION WOODBRIDGE ON, Transportation, 40.75
+May 16, UBER* EATS TORONTO ON, Restaurants, 25.50
+May 17, ROGERS ******4388 888-764-3771 ON, Personal and Household Expenses, 74.13
+May 18, FREEDOM MOBILE INC OAKVILLE ON, Personal and Household Expenses, 112.98
+May 19, PAYPAL *NETFLIX 800-000-0000 CA, Retail and Grocery, 15.99
+May 20, BEST BUY #1234 MISSISSAUGA ON, Retail and Grocery, 95.45
+May 21, CANADIAN TIRE #1234 TORONTO ON, Retail and Grocery, 60.34
+May 22, PETRO CANADA00959 WOODBRIDGE ON, Transportation, 35.00
+May 23, TESCO #1234 TORONTO ON, Retail and Grocery, 20.78
+May 24, STARBUCKS COFFEE #6158 MISSISSAUGA ON, Restaurants, 6.72
+May 25, FOOD BASICS 630 MISSISSAUGA ON, Retail and Grocery, 7.33
+May 26, DIGITAL ATTRACTIONS IN TORONTO ON, Retail and Grocery, 50.00
+May 27, SPOTHERO 844-356-8054 TORONTO ON, Transportation, 10.29
+May 28, GOOGLE *Spotify g.co/helppay#NS, Retail and Grocery, 12.42
+May 29, LA FITNESS BRAMPTON ON, Hotel Entertainment and Recreation, 51.97
+May 30, AMAZON.COM SEATTLE WA, Retail and Grocery, 25.00
+May 31, BEST BUY #1234 TORONTO ON, Retail and Grocery, 85.67
+Jun 01, PETRO CANADA00959 WOODBRIDGE ON, Transportation, 22.50
+Jun 02, TIM HORTONS #1234 TORONTO ON, Restaurants, 9.99
+Jun 03, WALMART SUPERCENTER MISSISSAUGA ON, Retail and Grocery, 40.78
+Jun 04, LCBO #1234 MISSISSAUGA ON, Retail and Grocery, 32.50
+Jun 05, UBER* TRIP TORONTO ON, Transportation, 13.45
+Jun 06, METRO #1234 TORONTO ON, Retail and Grocery, 22.15
+Jun 07, TICKETMASTER TORONTO ON, Hotel Entertainment and Recreation, 112.00
+Jun 08, APPLE.COM/BILL 866-712-7753 CA, Retail and Grocery, 9.99
+Jun 09, COSTCO WHOLESALE SCARBOROUGH ON, Retail and Grocery, 75.12
+Jun 10, UBER* EATS TORONTO ON, Restaurants, 28.00
